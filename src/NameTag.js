@@ -11,7 +11,7 @@ const NameTag = () => (
   <div className="name-tag">
     <h2 className="title">HELLO</h2>
     <p className="subtitle">my name is</p>
-    <h3 className="name">Jesse</h3>
+    <h3 className="name">Lola</h3>
   </div>
 );
 /* export our functional component definition to be 
